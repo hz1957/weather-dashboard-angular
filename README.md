@@ -1,6 +1,15 @@
 # WeatherApp
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.10.
+Angular weather dashboard built with [Angular CLI](https://github.com/angular/angular-cli) 20.3.10. Shows current conditions with an AG Grid table and Alpine theme.
+
+## Quick start
+
+```bash
+npm install
+npm start    # or: ng serve
+```
+
+Open `http://localhost:4200/`. The app reloads on save.
 
 ## Development server
 
